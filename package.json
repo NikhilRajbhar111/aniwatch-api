@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ghoshRitesh12/aniwatch-api.git"
+    "url": "git+https://github.com/NikhilRajbhar111/aniwatch-api.git"
   },
   "bugs": {
-    "url": "https://github.com/ghoshRitesh12/aniwatch-api/issues"
+    "url": "https://github.com/NikhilRajbhar111/aniwatch-api/issues"
   },
-  "homepage": "https://github.com/ghoshRitesh12/aniwatch-api#readme",
+  "homepage": "https://github.com/NikhilRajbhar111/aniwatch-api#readme",
   "keywords": [
     "anime",
     "weeb",
